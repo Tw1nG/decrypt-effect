@@ -8,8 +8,7 @@ from telethon import TelegramClient, events, Button
 # Название конфигурационного файла
 CONFIG_FILE = "dec.json"
 
-# URL для проверки обновлений (укажите ссылку на raw-файл вашего скрипта на GitHub)
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/ваш-username/ваш-репозиторий/main/ваш-скрипт.py"
+GITHUB_RAW_URL = "https://github.com/Tw1nG/decrypt-effect/blob/main/dec.py"
 
 # Текущая версия скрипта
 SCRIPT_VERSION = "1.0.0"
